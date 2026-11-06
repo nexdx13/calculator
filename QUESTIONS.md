@@ -39,8 +39,27 @@
 - [x] كتابة ملف `README.md`
 - [x] كتابة ملف `.gitignore`
 - [x] تجربة البرنامج والتأكد أن العمليات تعمل (نجحت كل الاختبارات)
-- [ ] تهيئة Git وعمل أول commit
-- [ ] إنشاء repo على GitHub ورفع الكود إليه
+- [x] تهيئة Git وعمل أول commit
+- [x] إنشاء repo على GitHub ورفع الكود إليه
+
+## 5) نتيجة المشروع 🎉
+
+- **اسم الـ repo:** [calculator](https://github.com/nexdx13/calculator)
+- **الرابط:** https://github.com/nexdx13/calculator
+- **حالة الـ repo:** Public (عام — يستطيع الجميع رؤيته)
+- **اسم الفرع:** `main`
+- **حسابي على GitHub:** `nexdx13`
+
+### أوامر Git التي تعلمتها
+| الأمر | ماذا يفعل |
+|-------|-----------|
+| `git init` | ينشئ مستودع (repo) جديد في المجلد |
+| `git add -A` | يجهّز كل الملفات للحفظ |
+| `git commit -m "..."` | يحفظ التغييرات مع رسالة توضيحية |
+| `git branch -m main` | يغيّر اسم الفرع إلى `main` |
+| `gh repo create ... --push` | ينشئ repo على GitHub ويرفع الكود |
+| `git status` | يعرض حالة الملفات |
+| `git log` | يعرض سجل الحفظات (commits) |
 
 ---
 
